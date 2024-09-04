@@ -1,6 +1,8 @@
 # SharpScenery
 
-[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/ea7fee82-6f83-456d-a1f3-1428fff3ec93)](https://www.youtube.com/watch?v=Sus6JvFmty8)
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/6cb8f236-c550-4fe1-a635-531457d26385)](https://www.youtube.com/watch?v=Sus6JvFmty8)
+
+![image]()
 
 ## Overview
 
