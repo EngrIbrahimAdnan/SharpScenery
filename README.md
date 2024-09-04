@@ -1,10 +1,24 @@
 # SharpScenery
 
+[![IMAGE ALT TEXT](https://github.com/user-attachments/assets/ea7fee82-6f83-456d-a1f3-1428fff3ec93)](https://www.youtube.com/watch?v=Sus6JvFmty8)
+
+
+![Screenshot 2024-09-04 171048](https://github.com/user-attachments/assets/732971f6-db77-425a-8b8d-5ea5f0ae343e)
+
+![Screenshot 2024-09-04 170933](https://github.com/user-attachments/assets/8455c89c-d84c-48d8-a22c-084d3f95a90a)
+![Screenshot 2024-09-04 171222](https://github.com/user-attachments/assets/c0fd9061-455e-4040-b25a-a2d3b81773bf)
+![Screenshot 2024-09-04 171145](https://github.com/user-attachments/assets/e7957f58-8933-45a6-a82b-4d9a0992a34a)
+![Screenshot 2024-09-04 171121](https://github.com/user-attachments/assets/e1809d7f-604a-43ad-a549-7a99befba5f5)
+
 ## Overview
 
 **SharpScenery** is an adrenaline-pumping first-person shooter game that puts your reflexes and precision to the ultimate test! Set in a beautifully crafted urban park environment, players must race against time to hit as many targets as possible and achieve the highest score. With its immersive gameplay and dynamic environment, SharpScenery challenges even the sharpest shooters to excel.
 
 Initially intended for release on Steam, SharpScenery is now available directly on GitHub. Due to the high fees associated with obtaining a game slot on Steam, we decided to offer this game free to our community of gamers and developers right here. Whether you're a casual gamer looking for a quick thrill or a streamer wanting to showcase a fast-paced challenge, SharpScenery is yours to explore. Feel free to stream the game, share it with your community, and give feedback!
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/51868f92-ea04-42ec-989c-70e95fbeef6e">
+</div>
 
 ## Features
 
@@ -13,6 +27,10 @@ Initially intended for release on Steam, SharpScenery is now available directly 
 - **First-Person Shooter Mechanics**: Designed for quick reflexes and accuracy.
 - **Community-Driven Development**: We welcome feedback and contributions from our players!
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/51868f92-ea04-42ec-989c-70e95fbeef6e">
+</div>
+
 ## Streaming and Sharing
 
 We believe in community and creativity! **SharpScenery** is **free to stream**. Whether you're a content creator on Twitch, YouTube, or any other platform, feel free to showcase your gameplay, share your experiences, and engage with your audience. Your streams help us grow and refine the game further. If you have any suggestions or feedback, please contribute to our GitHub issues or discussions!
@@ -20,6 +38,10 @@ We believe in community and creativity! **SharpScenery** is **free to stream**. 
 ## Why GitHub?
 
 Originally planned for a release on **Steam**, we quickly realized that the fees required to publish a game on their platform could be a barrier for a solo developer. Therefore, **SharpScenery** has found its home on GitHub, where it can be accessed, downloaded, and enjoyed by all—without any cost barriers!
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/51868f92-ea04-42ec-989c-70e95fbeef6e">
+</div>
 
 ## Getting Started
 
@@ -40,6 +62,10 @@ Upon launching the game, the setup process will check for and automatically prom
 
 - **NVIDIA Graphics Driver**  
   If you're using an NVIDIA GPU and encounter any issues with D3D12, it's recommended to update your driver to version **536.40** or the latest one available. Known issues have been identified with older drivers, so ensuring your graphics driver is up to date will provide the best experience.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/51868f92-ea04-42ec-989c-70e95fbeef6e">
+</div>
 
 ## How to Play
 
