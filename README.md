@@ -61,10 +61,8 @@ Upon launching the game, the setup process will check for and automatically prom
   If you're using an NVIDIA GPU and encounter any issues with D3D12, it's recommended to update your driver to version **536.40** or the latest one available. Known issues have been identified with older drivers, so ensuring your graphics driver is up to date will provide the best experience.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/8455c89c-d84c-48d8-a22c-084d3f95a90a">
+<img src="https://github.com/user-attachments/assets/f931c06d-bdb8-4042-ae28-e8b6d5a53906">
 </div>
-
-
 
 ## How to Play
 
