@@ -1,0 +1,27 @@
+SharpScenery End-User License Agreement (EULA)
+
+IMPORTANT: PLEASE READ THIS LICENSE CAREFULLY BEFORE INSTALLING OR USING THIS SOFTWARE.
+
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and the developer, Ibrahim Al-Ibrahim, for the software product SharpScenery ("Game").
+
+By installing, copying, or otherwise using the Game, you agree to be bound by the terms of this EULA.
+
+1. Grant of License  
+   This EULA grants you the right to install and use one copy of the Game on a single device for personal, non-commercial use only.
+
+2. Restrictions  
+   You may not:
+   - Modify, reverse-engineer, decompile, or disassemble the Game.
+   - Distribute or copy the Game without express written permission from the developer.
+   - Use the Game for any commercial purposes without a proper license.
+
+3. Ownership  
+   The Game is licensed, not sold. The developer retains all rights, title, and interest in and to the Game.
+
+4. Limitation of Liability  
+   The Game is provided "as is" without any warranties of any kind. The developer is not liable for any damages arising from the use or inability to use the Game.
+
+5. Termination  
+   This EULA is effective until terminated. Failure to comply with any terms will result in automatic termination without notice.
+
+By clicking "I Agree" or installing the Game, you acknowledge that you have read, understood, and agree to be bound by the terms of this EULA.
