@@ -58,7 +58,6 @@ This game is released under an open-source license. Feel free to fork, modify, a
 ## Acknowledgments
 
 Special thanks to:
-- **Unreal Sensei**: For the incredible Unreal Engine tutorials that helped shape this project.
 - **SilverTm**: For the open-source City Park Environment asset used in this game.
 
 Thank you for playing **SharpScenery**. Enjoy the game, and we look forward to your high scores and feedback!
