@@ -2,8 +2,6 @@
 
 [![IMAGE ALT TEXT](https://github.com/user-attachments/assets/6cb8f236-c550-4fe1-a635-531457d26385)](https://www.youtube.com/watch?v=Sus6JvFmty8)
 
-![image]()
-
 ## Overview
 
 **SharpScenery** is an adrenaline-pumping first-person shooter game that puts your reflexes and precision to the ultimate test! Set in a beautifully crafted urban park environment, players must race against time to hit as many targets as possible and achieve the highest score. With its immersive gameplay and dynamic environment, SharpScenery challenges even the sharpest shooters to excel.
