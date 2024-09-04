@@ -2,8 +2,6 @@
 
 [![IMAGE ALT TEXT](https://github.com/user-attachments/assets/ea7fee82-6f83-456d-a1f3-1428fff3ec93)](https://www.youtube.com/watch?v=Sus6JvFmty8)
 
-
-
 ## Overview
 
 **SharpScenery** is an adrenaline-pumping first-person shooter game that puts your reflexes and precision to the ultimate test! Set in a beautifully crafted urban park environment, players must race against time to hit as many targets as possible and achieve the highest score. With its immersive gameplay and dynamic environment, SharpScenery challenges even the sharpest shooters to excel.
@@ -11,7 +9,7 @@
 Initially intended for release on Steam, SharpScenery is now available directly on GitHub. Due to the high fees associated with obtaining a game slot on Steam, we decided to offer this game free to our community of gamers and developers right here. Whether you're a casual gamer looking for a quick thrill or a streamer wanting to showcase a fast-paced challenge, SharpScenery is yours to explore. Feel free to stream the game, share it with your community, and give feedback!
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/732971f6-db77-425a-8b8d-5ea5f0ae343e">
+<img src="https://github.com/user-attachments/assets/c0fd9061-455e-4040-b25a-a2d3b81773bf">
 </div>
 
 ## Features
@@ -25,7 +23,9 @@ Initially intended for release on Steam, SharpScenery is now available directly 
 <img src="https://github.com/user-attachments/assets/8455c89c-d84c-48d8-a22c-084d3f95a90a">
 </div>
 
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/e7957f58-8933-45a6-a82b-4d9a0992a34a">
+</div>
 
 ## Streaming and Sharing
 
@@ -35,8 +35,9 @@ We believe in community and creativity! **SharpScenery** is **free to stream**. 
 
 Originally planned for a release on **Steam**, we quickly realized that the fees required to publish a game on their platform could be a barrier for a solo developer. Therefore, **SharpScenery** has found its home on GitHub, where it can be accessed, downloaded, and enjoyed by all—without any cost barriers!
 
+
 <div align="center">
-<img src="https://github.com/user-attachments/assets/c0fd9061-455e-4040-b25a-a2d3b81773bf">
+<img src="https://github.com/user-attachments/assets/732971f6-db77-425a-8b8d-5ea5f0ae343e">
 </div>
 
 ## Getting Started
@@ -60,8 +61,10 @@ Upon launching the game, the setup process will check for and automatically prom
   If you're using an NVIDIA GPU and encounter any issues with D3D12, it's recommended to update your driver to version **536.40** or the latest one available. Known issues have been identified with older drivers, so ensuring your graphics driver is up to date will provide the best experience.
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/e7957f58-8933-45a6-a82b-4d9a0992a34a">
+<img src="https://github.com/user-attachments/assets/8455c89c-d84c-48d8-a22c-084d3f95a90a">
 </div>
+
+
 
 ## How to Play
 
@@ -83,7 +86,3 @@ Special thanks to:
 - **SilverTm**: For the open-source City Park Environment asset used in this game.
 
 Thank you for playing **SharpScenery**. Enjoy the game, and we look forward to your high scores and feedback!
-
-<div align="center">
-<img src="[https://github.com/user-attachments/assets/c0fd9061-455e-4040-b25a-a2d3b81773bf](https://github.com/user-attachments/assets/e1809d7f-604a-43ad-a549-7a99befba5f5)">
-</div>
