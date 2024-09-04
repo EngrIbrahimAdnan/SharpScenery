@@ -42,7 +42,7 @@ Originally planned for a release on **Steam**, we quickly realized that the fees
 
 ## Getting Started
 
-To get started with **SharpScenery**, simply download the game from this repository. Follow the instructions below to ensure your system is set up correctly with the necessary dependencies.
+To get started with **SharpScenery**, simply download the game via [release](https://github.com/EngrIbrahimAdnan/SharpScenery/releases/tag/v1.0.0-SharpScenery). Follow the instructions shown in the release description to ensure your system is set up correctly.
 
 ## Dependencies
 
